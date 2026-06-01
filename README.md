@@ -31,7 +31,7 @@ ko obićni kalkulator, ali bolje.
 U skladištu gdje svake noći ide 10+ relacija (300+ Trgovina).
 jedan pogrešan natpis, krivo pročitan ili krivo postavljen papir, 
 znači pogrešna roba. Stari sustav je bio papir sa imenom trgovine
-i igra na sreću da sve ispadne dobro svaki dan jednostavno zbog lošeg sistema.
+i igra na sreću da sve ispadne dobro svaki dan. Jednostavno zbog lošeg sistema.
 
 Napravio sam desktop aplikaciju koja poboljšava taj sistem. 
 
@@ -44,9 +44,9 @@ Napravio sam desktop aplikaciju koja poboljšava taj sistem.
 
 Uz poboljšanje efikasnosti za radnike u skladištu, program se dokazao vrlo korisnim i za radnike u upravi koji printaju papire.
 Prije se lista svake relacije otvarala pojedinačno u Wordu i printala jedna po jedna. Što je činilo sam postupak ažuriranja liste težak i zbunjujuč.
-Sad se sve nalazi unutar moga programa gdje se vrlo lako doda nova trgovina, ukloni stara il nepostoječa, odkvači se koja trgovina nejde taj dan, cijela lista 
-je lakše preglednija i jedan klik da se odabere sve relacije omogučuje brzo i učinkovito printanje. 
-Posao koji je zahtjevao po 1 vremena printanja i konstantne pažnje. Sada se obavi u manje od 10 minuta.
+Sad se sve nalazi unutar programa gdje se vrlo lako doda nova trgovina, ukloni stara il nepostoječa i odkvači se trgovina koja nejde taj dan. 
+Cijela lista je preglednija i jedan klik da se odaberu sve relacije omogučuje brzo i učinkovito printanje. 
+Posao koji je zahtjevao po sat vremena printanja i konstantne pažnje. Sada se obavi u manje od 10 minuta.
 
 **Tehnologije:** HTML · CSS · JavaScript · Lovable
 

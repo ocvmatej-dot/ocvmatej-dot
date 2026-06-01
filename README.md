@@ -30,8 +30,8 @@ ko obićni kalkulator, ali bolje.
 
 U skladištu gdje svake noći ide 10+ relacija (300+ Trgovina).
 jedan pogrešan natpis, krivo pročitan ili krivo postavljen papir, 
-znači pogrešna roba. Stari sustav je bio papir sa imenom trgovine
-i igra na sreću da sve ispadne dobro svaki dan. Jednostavno zbog lošeg sistema.
+znači pogrešna roba. Stari sustav je bio samo papir sa imenom trgovine
+i igra na sreću da sve ispadne dobro i na svom mjestu svaki dan. Jednostavno zbog lošeg sistema.
 
 Napravio sam desktop aplikaciju koja poboljšava taj sistem. 
 

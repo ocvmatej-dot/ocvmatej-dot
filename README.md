@@ -12,8 +12,8 @@ Gradim alate koji rješavaju stvarne probleme iz svakodnevnog rada.
 
 Tijekom rada u pekarskom skladištu svakodnevno sam se susretao 
 s ručnim izračunima kilaža i omjera. Napravio sam alat koji to 
-automatizira — bez interneta, bez održavanja, samo se otvori i radi
-ko obićni kalkulator, al bolje.
+automatizira. Bez interneta, bez održavanja, samo se otvori i radi
+ko obićni kalkulator, ali bolje.
 
 **Što radi:**
 - Izračunava ukupnu masu tijesta i svakog sastojka
@@ -28,14 +28,14 @@ ko obićni kalkulator, al bolje.
 ### 🏷️ Label Manager — Etikete za Skladište
 > Desktop aplikacija za organizaciju distribucije
 
-U skladištu su se etikete za gajbe često printale pogrešno —
+U skladištu su se etikete za gajbe često printale pogrešno.
 izmješani redovi, zbunjeni šefovi, kaos u distribuciji.
 Napravio sam sustav koji to eliminira.
 
 **Što radi:**
 - Organizira trgovine po redovima (Red 1 → Red 10)
-- Svaka etiketa ima watermark s brojem reda
-- Print redoslijed je zaključan — uvijek točan, odmah spreman za rezanje
+- Svaka etiketa ima vodeni žig s brojem reda
+- Print redoslijed je fiksan. Uvijek točan, odmah spreman za rezanje
 
 **Tehnologije:** HTML · CSS · JavaScript · Lovable
 
@@ -44,7 +44,7 @@ Napravio sam sustav koji to eliminira.
 ## 💻 Vještine
 
 HTML · CSS · JavaScript · Python · SQL  
-WordPress · Photoshop · AI Automatizacija · Grafički dizajn · Video editing
+WordPress · Photoshop · AI Automatizacija · Grafički dizajn · Video editing (Adobe Premiere)
 
 ---
 

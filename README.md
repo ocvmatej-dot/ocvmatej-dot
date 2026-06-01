@@ -28,14 +28,25 @@ ko obićni kalkulator, ali bolje.
 ### 🏷️ Label Manager — Etikete za Skladište
 > Desktop aplikacija za organizaciju distribucije
 
-U skladištu su se etikete za gajbe često printale pogrešno.
-izmješani redovi, zbunjeni šefovi, kaos u distribuciji.
-Napravio sam sustav koji to eliminira.
+U skladištu gdje svake noći ide 10+ relacija (300+ Trgovina).
+jedan pogrešan natpis, krivo pročitan ili krivo postavljen papir, 
+znači pogrešna roba. Stari sustav je bio papir sa imenom trgovine
+i igra na sreću da sve ispadne dobro svaki dan jednostavno zbog lošeg sistema.
+
+Napravio sam desktop aplikaciju koja poboljšava taj sistem. 
 
 **Što radi:**
-- Organizira trgovine po redovima (Red 1 → Red 10)
-- Svaka etiketa ima vodeni žig s brojem reda
-- Print redoslijed je fiksan. Uvijek točan, odmah spreman za rezanje
+- Organizira trgovine po relacijama (Relacija 1 → Relacija 10)
+- Svaki papir na sebi ima:
+  - Ime trgovine
+  - Iznad imena trgovine stoji vodeni Žig koji označava koja je relacija (npr. Relacija 1).
+  - U kutu papira broj redosljeda da svaki dan sve trgovine budu isto postavljene (Vrlo Važno za efikasnost radnika).
+
+Uz poboljšanje efikasnosti za radnike u skladištu, program se dokazao vrlo korisnim i za radnike u upravi koji printaju papire.
+Prije se lista svake relacije otvarala pojedinačno u Wordu i printala jedna po jedna. Što je činilo sam postupak ažuriranja liste težak i zbunjujuč.
+Sad se sve nalazi unutar moga programa gdje se vrlo lako doda nova trgovina, ukloni stara il nepostoječa, odkvači se koja trgovina nejde taj dan, cijela lista 
+je lakše preglednija i jedan klik da se odabere sve relacije omogučuje brzo i učinkovito printanje. 
+Posao koji je zahtjevao po 1 vremena printanja i konstantne pažnje. Sada se obavi u manje od 10 minuta.
 
 **Tehnologije:** HTML · CSS · JavaScript · Lovable
 
